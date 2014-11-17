@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docbase="C:\Documents and Settings\pc\Desktop\meteo\meteo svg"
+   sodipodi:docname="stationary_front_down.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1280"
+     inkscape:window-height="744"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2010"
+       inkscape:label="Livello 1"
+       transform="matrix(2.401701,0,0,2.661076,-296.8136,-1012.256)">
+      <g
+         transform="matrix(1.379476,0,0,1.446429,-179.2787,-225.563)"
+         inkscape:label="Livello 1"
+         id="g2573">
+        <g
+           id="g1876"
+           transform="matrix(-1,0,0,-1,732.4107,1079.724)"
+           inkscape:export-filename="C:\Programmi\Inkscape\stationary_front_down.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150">
+          <path
+             id="path1872"
+             d="M 350,547.36218 L 365.44643,547.36218 L 358,532.36218 L 350,547.36218 z "
+             style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cczc"
+             id="path1874"
+             d="M 366.96429,547.36218 L 382.41072,547.36218 C 382.41072,547.36218 378.8259,538.34432 374.96429,538.34432 C 371.10268,538.34432 366.96429,547.36218 366.96429,547.36218 z "
+             style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

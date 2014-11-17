@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150"
+   height="150"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="PA.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.7433334"
+     inkscape:cx="49.615817"
+     inkscape:cy="51.196045"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="150px"
+     inkscape:window-width="1366"
+     inkscape:window-height="725"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>PA</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Arpa Piemonte SC22/Sea Consulting</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:date>2013.02.15</dc:date>
+        <dc:description>Pozzo per acqua</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>geologia geotecnica geofisica</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>DF, LL</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/2.5/" />
+        <dc:language>it</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-902.36229)">
+    <g
+       id="g13453"
+       transform="translate(-179.11088,25.956005)">
+      <g
+         style="fill:#00d5ff;fill-opacity:1"
+         transform="matrix(0.68036746,0,0,0.69026222,203.08333,276.77556)"
+         id="g5093">
+        <path
+           sodipodi:type="arc"
+           style="fill:#00d5ff;fill-opacity:1;stroke:#000000;stroke-width:7.29610682;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-5"
+           sodipodi:cx="72.275337"
+           sodipodi:cy="76.290634"
+           sodipodi:rx="58.221798"
+           sodipodi:ry="58.221798"
+           d="m 130.49714,76.290634 c 0,32.155016 -26.06679,58.221796 -58.221803,58.221796 -32.155011,0 -58.221798,-26.06678 -58.221798,-58.221796 0,-32.155011 26.066787,-58.221798 58.221798,-58.221798 32.155013,0 58.221803,26.066787 58.221803,58.221798 z"
+           transform="translate(2.7246606,901.06361)" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path2989-0"
+         d="m 254.01332,899.90107 c 0.19514,103.01043 0.19514,103.01043 0.19514,103.01043"
+         style="fill:none;stroke:#000000;stroke-width:4.94393349;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2991-3"
+         d="m 203.27846,951.21389 c 101.66485,0.3959 101.66485,0.3959 101.66485,0.3959"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>

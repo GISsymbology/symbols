@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docbase="C:\Documents and Settings\pc\Desktop\meteo\meteo svg"
+   sodipodi:docname="sandstorm_severe.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="744"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3759">
+      <flowRoot
+         transform="matrix(1.887633,0,0,4.086512,39.74257,-1541.54)"
+         style="font-size:72px;font-family:Arial Unicode MS"
+         id="flowRoot1872"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1874"><rect
+             style="font-size:72px;font-family:Arial Unicode MS"
+             y="455.93362"
+             x="93.571426"
+             height="157.14285"
+             width="130"
+             id="rect1876" /></flowRegion><flowPara
+           id="flowPara1878">s</flowPara></flowRoot>      <path
+         id="path2824"
+         d="M 339.0995,478.04137 L 339.0995,503.52687 L 361.23144,490.78412 L 339.0995,478.04137 z "
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:2.83862019px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2826"
+         style="font-size:72px;font-family:Arial Unicode MS"
+         transform="matrix(1.887633,0,0,4.086512,39.74257,-1541.54)"><flowRegion
+           id="flowRegion2828"><rect
+             id="rect2830"
+             width="130"
+             height="157.14285"
+             x="93.571426"
+             y="455.93362"
+             style="font-size:72px;font-family:Arial Unicode MS" /></flowRegion><flowPara
+           id="flowPara2832">s</flowPara></flowRoot>      <rect
+         y="486.58755"
+         x="161.97536"
+         height="9.6494961"
+         width="177.14951"
+         id="rect3757"
+         style="opacity:0.98543689;fill:none;fill-opacity:1;stroke:black;stroke-width:2.75026584;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

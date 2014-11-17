@@ -1,0 +1,7 @@
+Simboli per frecce del nord
+===========================
+Alcuni simboli in svg da usare con Inkscape, qgis o altri programmi liberi.
+
+Autore: silvio grosso <grossosilvio@yahoo.it>
+
+Licenza: vedi il file incluso

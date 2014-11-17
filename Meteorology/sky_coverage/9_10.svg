@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docbase="C:\Documents and Settings\pc\Desktop\meteo\meteo svg\sky"
+   sodipodi:docname="9_10.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="367.85714"
+     inkscape:cy="538.96875"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="744"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3867"
+       transform="translate(-16.07143,4.642857)">
+      <path
+         transform="matrix(2.409709,0,0,2.313901,-502.0828,-528.6843)"
+         d="M 401.78572 447.54074 A 29.821428 29.821428 0 1 1  342.14287,447.54074 A 29.821428 29.821428 0 1 1  401.78572 447.54074 z"
+         sodipodi:ry="29.821428"
+         sodipodi:rx="29.821428"
+         sodipodi:cy="447.54074"
+         sodipodi:cx="371.96429"
+         id="path3762"
+         style="fill:none;fill-opacity:1;stroke:black;stroke-width:3.29999995;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="cccsc"
+         id="path2971"
+         d="M 324.06011,503.12004 L 389.4717,503.64032 L 388.37694,574.47674 C 368.55379,570.25255 352.25316,562.80895 341.02042,550.73351 C 330.44303,539.3626 324.35948,523.88457 324.06011,503.12004 z "
+         style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1.05659449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccsc"
+         id="path3860"
+         d="M 466.36489,509.44206 L 396.7956,508.93752 L 397.95995,440.24466 C 419.0431,444.34103 436.37984,451.55938 448.32655,463.2694 C 459.57625,474.29622 466.0465,489.30588 466.36489,509.44206 z "
+         style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1.07304323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccsc"
+         id="path3862"
+         d="M 389.92351,440.45963 L 389.41621,506.83668 L 320.34693,505.72576 C 324.46574,485.61002 331.72365,469.0688 343.49783,457.67028 C 354.58508,446.93677 369.67699,440.76342 389.92351,440.45963 z "
+         style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1.05100322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccsc"
+         id="path3864"
+         d="M 396.31341,573.21621 L 396.83606,504.02022 L 467.99465,505.17832 C 463.75124,526.14835 456.27379,543.39206 444.14344,555.27465 C 432.72081,566.464 417.17237,572.89953 396.31341,573.21621 z "
+         style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1.08919799px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

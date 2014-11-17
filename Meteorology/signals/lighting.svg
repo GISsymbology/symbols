@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docbase="C:\Documents and Settings\pc\Desktop\meteo\meteo svg"
+   sodipodi:docname="lighting.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="456.07143"
+     inkscape:cy="688.72456"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="744"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5654">
+      <g
+         transform="matrix(0.892994,0,0,0.882439,39.18472,44.56341)"
+         id="g5646">
+        <g
+           id="g2983"
+           inkscape:label="Livello 1"
+           transform="matrix(-0.382591,-0.48471,-0.513976,0.651162,737.3647,356.0241)"
+           style="stroke:black;stroke-width:5.04764366;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <path
+             style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:5.04764366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 200,202.36218 L 313.39982,202.36218 L 313.39982,202.36218"
+             id="path2985"
+             transform="translate(204.118,131.1031)" />
+        </g>
+        <g
+           id="g5642"
+           inkscape:label="Livello 1"
+           transform="matrix(0.382591,-0.48471,0.513976,0.651162,42.2209,302.8498)"
+           style="stroke:black;stroke-width:5.04764366;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <path
+             style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:5.04764366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 200,202.36218 L 313.39982,202.36218 L 313.39982,202.36218"
+             id="path5644"
+             transform="translate(204.118,131.1031)" />
+        </g>
+      </g>
+      <path
+         id="path5652"
+         d="M 409.57106,373.02335 L 402.5,380.09441 L 411.33883,381.86218 L 409.57106,373.02335 z "
+         style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

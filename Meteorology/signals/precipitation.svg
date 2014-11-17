@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docbase="C:\Documents and Settings\pc\Desktop\meteo\meteo svg"
+   sodipodi:docname="precipitation.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="375"
+     inkscape:cy="555.86042"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="744"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="505.39195"
+       id="guide2856" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2943">
+      <g
+         transform="matrix(-2.940242,2.826761,-2.940242,-2.826761,2994.463,990.636)"
+         id="g2814">
+        <rect
+           style="opacity:0.98543689;fill:none;fill-opacity:1;stroke:black;stroke-width:0.69999999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1919"
+           width="8.2142868"
+           height="7.3214273"
+           x="350"
+           y="527.36218" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 350.35714,531.36218 L 357.91071,531.36218"
+           id="path2808" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 354.01786,527.30861 L 354.01786,534.86218"
+           id="path2810" />
+        <rect
+           style="opacity:0.98543689;fill:black;fill-opacity:1;stroke:black;stroke-width:0.69999999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect2812"
+           width="3.0267868"
+           height="3.2678554"
+           x="354.6232"
+           y="527.71216" />
+      </g>
+      <path
+         id="path2820"
+         d="M 391.70399,511.38049 L 391.70399,541.50941"
+         style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:4.23050213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path2822"
+         d="M 392.32789,441.84976 L 392.32789,469.83326"
+         style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:4.07709646px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path2826"
+         d="M 386.09336,443.17266 L 398.96892,443.17266 L 392.53114,432.66222 L 386.09336,443.17266 z "
+         style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1.64516449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

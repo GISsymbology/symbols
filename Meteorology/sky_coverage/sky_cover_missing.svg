@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docbase="F:\QGIS_N_ARROWS\METEOROLOGY"
+   sodipodi:docname="sky_cover_missing.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="425.71429"
+     inkscape:cy="584.64286"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="744"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1878">
+      <path
+         transform="matrix(2.409709,0,0,2.313901,-480.0757,-629.4527)"
+         d="M 401.78572 447.54074 A 29.821428 29.821428 0 1 1  342.14287,447.54074 A 29.821428 29.821428 0 1 1  401.78572 447.54074 z"
+         sodipodi:ry="29.821428"
+         sodipodi:rx="29.821428"
+         sodipodi:cy="447.54074"
+         sodipodi:cx="371.96429"
+         id="path3762"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:black;stroke-width:3.29999995;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <flowRoot
+         transform="matrix(10.02383,0,0,8.967553,-2091.885,-3515.543)"
+         id="flowRoot1870"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1872"><rect
+             y="432.12851"
+             x="244.96199"
+             height="60.609154"
+             width="61.114227"
+             id="rect1874" /></flowRegion><flowPara
+           id="flowPara1876">M</flowPara></flowRoot>    </g>
+  </g>
+</svg>

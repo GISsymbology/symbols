@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150"
+   height="150"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="UH.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.3285128"
+     inkscape:cx="-24.908001"
+     inkscape:cy="57.891305"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="150px"
+     inkscape:window-width="1366"
+     inkscape:window-height="725"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="-0.30367313,127.23904"
+       id="guide3789" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="150.92555,137.8676"
+       id="guide3791" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>UH</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Arpa Piemonte SC22/Sea Consulting</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:date>2013.02.15</dc:date>
+        <dc:description>Prova sismica in foro tipo Uphole</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>geologia geotecnica geofisica</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>DF, LL</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/2.5/" />
+        <dc:language>it</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-902.36229)">
+    <g
+       transform="scale(0.91567419,1.0920915)"
+       style="font-size:27.26915931999999998px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="text3001">
+      <path
+         d="m 100.18214,827.77666 6.65587,0 0,17.85393 c -1e-5,2.83325 0.0824,4.66961 0.24735,5.50908 0.28481,1.34917 0.95939,2.43599 2.02374,3.26047 1.07932,0.80951 2.54841,1.21426 4.40727,1.21425 1.88881,1e-5 3.31293,-0.38226 4.27235,-1.14679 0.95938,-0.77951 1.53652,-1.73141 1.73143,-2.85573 0.19485,-1.12429 0.29229,-2.99063 0.29231,-5.59902 l 0,-18.23619 6.65588,0 0,17.31426 c -3e-5,3.95756 -0.17992,6.75332 -0.53967,8.3873 -0.35981,1.63399 -1.02689,3.01313 -2.00126,4.13743 -0.95943,1.1243 -2.24863,2.02375 -3.8676,2.69833 -1.61902,0.65959 -3.7327,0.98938 -6.34107,0.98938 -3.14806,0 -5.53907,-0.35977 -7.17304,-1.07933 -1.61901,-0.73454 -2.90071,-1.67895 -3.84512,-2.83324 -0.94442,-1.16927 -1.56653,-2.39101 -1.86634,-3.66523 -0.43474,-1.88882 -0.6521,-4.67708 -0.6521,-8.36481 l 0,-17.58409"
+         style="font-size:46.05142974999999694px;font-weight:bold;font-family:Arial;-inkscape-font-specification:Arial Bold;fill:#ff0000;fill-opacity:1"
+         id="path17397" />
+      <path
+         d="m 133.52896,860.74121 0,-32.96455 6.65587,0 0,12.97445 13.0419,0 0,-12.97445 6.65588,0 0,32.96455 -6.65588,0 0,-14.41356 -13.0419,0 0,14.41356 -6.65587,0"
+         style="font-size:46.05142974999999694px;font-weight:bold;font-family:Arial;-inkscape-font-specification:Arial Bold;fill:#ff0000;fill-opacity:1"
+         id="path17399" />
+    </g>
+    <g
+       id="g5093"
+       transform="matrix(0.68036746,0,0,0.69026222,23.972445,302.7316)"
+       style="fill:#ff0000;fill-opacity:1">
+      <path
+         transform="translate(2.7246606,901.06361)"
+         d="m 130.49714,76.290634 c 0,32.155016 -26.06679,58.221796 -58.221803,58.221796 -32.155011,0 -58.221798,-26.06678 -58.221798,-58.221796 0,-32.155011 26.066787,-58.221798 58.221798,-58.221798 32.155013,0 58.221803,26.066787 58.221803,58.221798 z"
+         sodipodi:ry="58.221798"
+         sodipodi:rx="58.221798"
+         sodipodi:cy="76.290634"
+         sodipodi:cx="72.275337"
+         id="path2987-9"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:7.29610682000000033;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.94393349;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 74.902435,925.85711 c 0.19513,103.01039 0.19513,103.01039 0.19513,103.01039"
+       id="path2989-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 24.167575,977.16993 c 101.664845,0.3959 101.664845,0.3959 101.664845,0.3959"
+       id="path2991-1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

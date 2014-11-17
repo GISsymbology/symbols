@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docbase="C:\Documents and Settings\pc\Desktop\meteo\meteo svg"
+   sodipodi:docname="warm_front_up.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="744"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2118"
+       inkscape:label="Livello 1"
+       transform="matrix(-1,0,0,-1,469.6678,1113.148)">
+      <g
+         transform="matrix(-3.3458,0,0,-4.318836,569,2648.874)"
+         id="g8192">
+        <path
+           style="fill:#fd0000;fill-opacity:1;fill-rule:evenodd;stroke:#fc0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 85,507.36218 L 100,507.36218 C 100,507.36218 96.392857,497.27289 92.642857,497.27289 C 88.892857,497.27289 85,507.36218 85,507.36218 z "
+           id="path6414"
+           sodipodi:nodetypes="ccsc" />
+        <path
+           style="fill:#fd0000;fill-opacity:1;fill-rule:evenodd;stroke:#fc0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 101.5,507.37357 L 116.5,507.37357 C 116.5,507.37357 112.89285,497.28428 109.14285,497.28428 C 105.39285,497.28428 101.5,507.37357 101.5,507.37357 z "
+           id="path8186"
+           sodipodi:nodetypes="ccsc" />
+        <path
+           style="fill:#fd0000;fill-opacity:1;fill-rule:evenodd;stroke:#fc0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 117.93034,507.38067 L 132.93034,507.38067 C 132.93034,507.38067 129.32319,497.29138 125.57319,497.29138 C 121.82319,497.29138 117.93034,507.38067 117.93034,507.38067 z "
+           id="path8188"
+           sodipodi:nodetypes="ccsc" />
+        <path
+           style="fill:#fd0000;fill-opacity:1;fill-rule:evenodd;stroke:#fc0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 134.43687,507.40357 L 149.43687,507.40357 C 149.43687,507.40357 145.82973,497.31428 142.07973,497.31428 C 138.32973,497.31428 134.43687,507.40357 134.43687,507.40357 z "
+           id="path8190"
+           sodipodi:nodetypes="ccsc" />
+      </g>
+    </g>
+  </g>
+</svg>

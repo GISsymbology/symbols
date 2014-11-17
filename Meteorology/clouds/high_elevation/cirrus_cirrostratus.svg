@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docbase="C:\Documents and Settings\pc\Desktop\meteo\clouds"
+   sodipodi:docname="Cirrus_Cirrostratus.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="219.29586"
+     inkscape:cy="578.17481"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="744"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g6561"
+       transform="translate(-35.35534,11.2647)">
+      <g
+         transform="matrix(0.707107,-0.707107,0.707107,0.707107,-226.9326,292.9843)"
+         id="g5669">
+        <g
+           id="g18212"
+           inkscape:label="Livello 1"
+           transform="matrix(1,0,0,1.343407,-226.7108,-13.74222)">
+          <path
+             style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 200,202.36218 L 313.39982,202.36218 L 313.39982,202.36218"
+             id="path19205"
+             transform="translate(204.118,131.1031)" />
+        </g>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:3.0999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 290.06379,434.35263 C 311.97112,422.63277 301.7593,414.4817 290.06379,406.49548 L 290.06379,406.49548 L 290.06379,406.49548 C 290.06379,406.85262 290.13887,408.37345 290.06379,407.56691"
+           id="path2949"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5674"
+         d="M 206.64656,474.15034 L 230.9174,474.15034 L 230.9174,474.15034 L 230.9174,474.15034 L 235.02454,474.25863"
+         style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:3.04058313;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
