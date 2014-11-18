@@ -152,7 +152,7 @@
          d="m 22.041953,982.54885 c 101.664847,0.3959 101.664847,0.3959 101.664847,0.3959"
          style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
-    <flowRoot
+    <!--<flowRoot
        xml:space="preserve"
        id="flowRoot7587"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -164,5 +164,5 @@
            x="-48.958286"
            y="11.71431"
            style="font-size:48px" /></flowRegion><flowPara
-         id="flowPara7593" /></flowRoot>  </g>
+         id="flowPara7593" /></flowRoot>-->  </g>
 </svg>
