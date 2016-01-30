@@ -1,0 +1,24 @@
+Simboli geologici
+=====================
+Simboli in svg da usare con Inkscape, qgis o altri programmi liberi.
+_____________________________________________
+CARG
+FDGC
+
+Autore: Mauro de Donatis per Arpa Piemonte <sigeo@arpa.piemonte.it>
+______________________________________________
+
+microzonazione
+misc
+
+Autore: Luca Lanteri <lklanteri@gmail.com>
+______________________________________________
+
+Meteorology
+N_Arrows
+
+Autore: silvio grosso <grossosilvio@yahoo.it>
+
+_______________________________________________
+
+Licenza: CC BY 2.5 (Vedi file incluso) 
