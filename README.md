@@ -2,4 +2,4 @@
 
 This repository contains resource collections for the QGIS Resource Sharing platform.
 
-Add this link to your repo list: https://github.com/GISsimbology/symbols/edit/master/QGIS-resource-collections.git
+Add this link to your repo list: https://github.com/GISsimbology/symbols/QGIS-resource-collections.git
