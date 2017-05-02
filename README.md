@@ -1,4 +1,5 @@
-main
-====
+# QGIS-resource-collections
 
-Symbols in svg, sld and QGIS (qml)  formats to be used for styling maps.
+This repository contains resource collections for the QGIS Resource Sharing platform.
+
+Add this link to your repo list: https://github.com/GISsimbology/symbols/edit/master/QGIS-resource-collections.git
